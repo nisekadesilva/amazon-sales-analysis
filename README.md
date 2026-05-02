@@ -14,7 +14,7 @@ In real-world e-commerce systems, data is not stored in a single table but in mu
 This project demonstrates how raw transactional data can be structured into a relational database and used to generate meaningful business insights.
 It helps businesses understand customer purchasing patterns, top-performing products, and sales trends for better decision-making.
 
-### <ins> Data Collection </ins>
+### <img src="https://cdn.simpleicons.org/databricks/14B8A6" width="20"/> | <ins> Data Collection </ins>
 I obtained an e-commerce sales dataset from Kaggle, which included order details such as product, category, price, customer information, and payment methods.
 
 ### <ins> Data Preparation </ins>
@@ -22,7 +22,7 @@ I obtained an e-commerce sales dataset from Kaggle, which included order details
 The dataset was originally in a flat format, where all information was stored in a single table.
 This structure caused data duplication and was not suitable for efficient analysis.
 
-###  <ins> Database Design </ins>
+### <img src="https://cdn.simpleicons.org/sqlite/14B8A6" width="20"/> | <ins> Database Design </ins>
 
 To solve this, I redesigned the dataset into a relational database using SQL.
 The data was split into multiple tables:
@@ -48,7 +48,7 @@ QL queries were used to analyze,
 - Sales by category
 - Payment method usage
 
-### <ins> Visualization </ins>
+### <img src="https://cdn.simpleicons.org/googleanalytics/14B8A6" width="20"/> | <ins> Visualization </ins>
 
 The processed data was then connected to Power BI to create an interactive dashboard.
 The dashboard provides clear insights into sales performance and customer behavior.
