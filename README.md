@@ -5,7 +5,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-F97316?logo=python&logoColor=white&style=flat-square)
 
-## <img src="https://cdn.simpleicons.org/python/F97316" width="20"/> | <ins> Project Overview </ins>
+## <img src="https://cdn.simpleicons.org/target/14B8A6" width="20"/> | <ins> Project Overview </ins>
 This project analyzes e-commerce sales data to understand customer behavior, product performance, and revenue trends.
 The dataset was transformed from a flat structure into a relational database using SQL, and insights were visualized using Power BI dashboards.
 
