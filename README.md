@@ -17,4 +17,16 @@ I obtained an e-commerce sales dataset from Kaggle, which included order details
 The dataset was originally in a flat format, where all information was stored in a single table.
 This structure caused data duplication and was not suitable for efficient analysis.
 
+### Database Design
+
+To solve this, I redesigned the dataset into a relational database using SQL.
+The data was split into multiple tables:
+
+- Customers
+- Orders
+- Products
+- Order Items
+
+This normalization process reduced redundancy and improved data organization.
+
 
