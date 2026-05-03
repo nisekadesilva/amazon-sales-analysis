@@ -55,9 +55,10 @@ The dashboard provides clear insights into sales performance and customer behavi
 
 ----
 
-#### <ins> Page 1 | EXECUTIVE SALES OVERVIEW </ins>
+### <ins> Page 1 | EXECUTIVE SALES OVERVIEW </ins>
 
-<img width="1324" height="780" alt="Screenshot 2026-05-03 073911" src="https://github.com/user-attachments/assets/c8dbe1d4-d058-4e00-ab38-53b061ddb38f" />
+<img width="1324" height="780" alt="Screenshot 2026-05-03 073911" src="https://github.com/user-attachments/assets/c8dbe1d4-d058-4e00-ab38-53b061ddb38f" /> 
+<br>
 
 
 The Executive Sales Overview dashboard provides a high-level summary of the e-commerce business performance.
@@ -82,3 +83,11 @@ Miami generates the highest revenue (507,200), making it the most valuable marke
 
 Among product categories, Electronics dominate total sales, highlighting strong demand for tech products.
 In contrast, Books generate the lowest revenue, indicating weaker performance and possible need for promotional strategies.
+
+- #### <ins> Key Business Recommendations </ins>
+
+  - Focus marketing efforts on high-performing regions like Miami to maximize revenue.
+  - Investigate low-performing markets such as San Francisco and Los Angeles to improve engagement.
+  - Promote low-performing categories (Books) through discounts or bundling strategies.
+  - Encourage adoption of underused payment methods like Debit Cards through offers or cashback incentives.
+  - Leverage the popularity of Electronics by expanding product variety and inventory.
