@@ -17,7 +17,7 @@ It helps businesses understand customer purchasing patterns, top-performing prod
 ### <img src="https://cdn.simpleicons.org/databricks/14B8A6" width="20"/> | <ins> Data Collection </ins>
 I obtained an e-commerce sales dataset from Kaggle, which included order details such as product, category, price, customer information, and payment methods.
 
-### <ins> Data Preparation </ins>
+### <img src="https://cdn.simpleicons.org/sqlite/14B8A6" width="20"/>  | <ins> Data Preparation </ins>
 
 The dataset was originally in a flat format, where all information was stored in a single table.
 This structure caused data duplication and was not suitable for efficient analysis.
