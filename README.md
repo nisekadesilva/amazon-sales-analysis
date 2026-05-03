@@ -17,7 +17,7 @@ It helps businesses understand customer purchasing patterns, top-performing prod
 ### <img src="https://cdn.simpleicons.org/databricks/14B8A6" width="20"/> | <ins> Data Collection </ins>
 I obtained an e-commerce sales dataset from Kaggle, which included order details such as product, category, price, customer information, and payment methods.
 
-### <img src="https://cdn.simpleicons.org/databricks/14B8A6" width="20"/> | <ins> Data Preparation </ins>
+### <img src="https://cdn.simpleicons.org/apachekafka/14B8A6" width="20"/> | <ins> Data Preparation </ins>
 
 The dataset was originally in a flat format, where all information was stored in a single table.
 This structure caused data duplication and was not suitable for efficient analysis.
@@ -48,7 +48,7 @@ QL queries were used to analyze,
 - Sales by category
 - Payment method usage
 
-### <img src="https://cdn.simpleicons.org/powerbi/14B8A6" width="20"/>  | <ins> Visualization </ins>
+### <img src="https://cdn.simpleicons.org/chartdotjs/14B8A6" width="20"/>  | <ins> Visualization </ins>
 
 The processed data was then connected to Power BI to create an interactive dashboard.
 The dashboard provides clear insights into sales performance and customer behavior.
