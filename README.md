@@ -39,7 +39,7 @@ This normalization process reduced redundancy and improved data organization.
 The raw dataset was imported into a SQLite database and transformed into structured tables using SQL queries.
 Relationships were established using primary and foreign keys.
 
-### <ins> Data Analysis </ins>
+### <img src="https://cdn.simpleicons.org/googleanalytics/14B8A6" width="20"/>  | <ins> Data Analysis </ins>
 
 QL queries were used to analyze,
 
@@ -48,7 +48,7 @@ QL queries were used to analyze,
 - Sales by category
 - Payment method usage
 
-### <img src="https://cdn.simpleicons.org/googleanalytics/14B8A6" width="20"/> | <ins> Visualization </ins>
+### | <ins> Visualization </ins>
 
 The processed data was then connected to Power BI to create an interactive dashboard.
 The dashboard provides clear insights into sales performance and customer behavior.
@@ -121,3 +121,33 @@ This highlights the difference between volume-driven vs value-driven products.
  - Analyze why Washing Machines have low demand (price, competition, or customer preference).
 
 ---
+### <ins> Page 3 | CUSTOMER ANALYTICS DASHBOARD </ins>
+
+The Customer Analytics dashboard focuses on customer purchasing behavior, identifying high-value customers and analyzing order patterns.
+This helps in understanding customer contribution to revenue and engagement levels.
+
+<img width="814" height="710" alt="Screenshot 2026-05-03 081537" src="https://github.com/user-attachments/assets/4f5e3a68-a108-4d00-9390-48b8c2d2ca81" />
+
+
+<br>
+
+Oliver Winston generated the highest total sales (578,720), making him the most valuable customer.
+Emma Clark placed the highest number of orders (32 orders), indicating strong engagement and frequent purchasing behavior.
+
+
+Not all customers behave the same,
+
+Some customers (like Emma Clark) are frequent buyers
+Others (like Oliver Winston) are high spenders
+
+This shows two important customer types:
+
+High-frequency customers
+High-value customers
+
+
+- #### <ins> Key Business Recommendations </ins>
+  - Retain high-value customers like Oliver Winston through loyalty programs and personalized offers.
+  - Encourage repeat purchases from customers like Emma Clark with rewards and engagement strategies.
+  - Re-engage low-performing customers such as Sophia Miller through targeted promotions or discounts.
+  - Segment customers into groups (high-value, frequent, low-engagement) for better marketing strategies.
