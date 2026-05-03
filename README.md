@@ -53,28 +53,32 @@ QL queries were used to analyze,
 The processed data was then connected to Power BI to create an interactive dashboard.
 The dashboard provides clear insights into sales performance and customer behavior.
 
+----
 
-Page 1 | EXECUTIVE SALES OVERVIEW
+#### <ins> Page 1 | EXECUTIVE SALES OVERVIEW </ins>
+
+<img width="1324" height="780" alt="Screenshot 2026-05-03 073911" src="https://github.com/user-attachments/assets/c8dbe1d4-d058-4e00-ab38-53b061ddb38f" />
+
 
 The Executive Sales Overview dashboard provides a high-level summary of the e-commerce business performance.
 The total sales reached 4 million across 250 orders and approximately 2,000 customers, indicating a moderate transaction volume with relatively high-value purchases.
 
-💳 Payment Insights
+<ins> Payment Insights </ins>
 
 Payment method analysis shows that PayPal (28.56%) and Credit Card (25.26%) are the most preferred options, indicating strong customer trust in digital payment systems.
 In contrast, Debit Card usage (13.08%) is relatively low, suggesting an opportunity to promote alternative payment incentives.
 
-🌍 Customer Distribution Insights
+<ins> Customer Distribution Insights </ins>
 
 Customer distribution is concentrated in major cities such as Boston, Dallas, Houston, Miami, and New York, each contributing around 180 customers.
 However, Los Angeles shows lower customer engagement (~120 customers), indicating a potential market expansion opportunity.
 
-💰 Revenue by Location
+<ins> Revenue by Location </ins>
 
 Sales performance varies significantly by location.
 Miami generates the highest revenue (507,200), making it the most valuable market, while San Francisco records the lowest (259,120), suggesting lower customer spending or demand.
 
-📦 Product Category Insights
+<ins> Product Category Insights </ins>
 
 Among product categories, Electronics dominate total sales, highlighting strong demand for tech products.
 In contrast, Books generate the lowest revenue, indicating weaker performance and possible need for promotional strategies.
