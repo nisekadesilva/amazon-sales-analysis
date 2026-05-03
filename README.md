@@ -34,7 +34,7 @@ The data was split into multiple tables:
 
 This normalization process reduced redundancy and improved data organization.
 
-### <ins> Data Processing </ins>
+### <img src="https://cdn.simpleicons.org/pandas/14B8A6" width="20"/> | <ins> Data Processing </ins>
 
 The raw dataset was imported into a SQLite database and transformed into structured tables using SQL queries.
 Relationships were established using primary and foreign keys.
@@ -48,7 +48,7 @@ QL queries were used to analyze,
 - Sales by category
 - Payment method usage
 
-### | <ins> Visualization </ins>
+### <img src="https://cdn.simpleicons.org/powerbi/14B8A6" width="20"/>  | <ins> Visualization </ins>
 
 The processed data was then connected to Power BI to create an interactive dashboard.
 The dashboard provides clear insights into sales performance and customer behavior.
@@ -56,7 +56,7 @@ The dashboard provides clear insights into sales performance and customer behavi
 ----
 
 ### <ins> Page 1 | EXECUTIVE SALES OVERVIEW </ins>
-
+<br>
 <img width="1324" height="780" alt="Screenshot 2026-05-03 073911" src="https://github.com/user-attachments/assets/c8dbe1d4-d058-4e00-ab38-53b061ddb38f" /> 
 <br>
 
@@ -98,7 +98,7 @@ In contrast, Books generate the lowest revenue, indicating weaker performance an
 
 The Product Performance Analysis dashboard evaluates product-level performance by analyzing sales revenue and quantity sold.
 It helps identify top-performing products, underperforming items, and overall product demand trends.
-
+<br>
 <img width="1293" height="782" alt="Screenshot 2026-05-03 081015" src="https://github.com/user-attachments/assets/12dcad50-7864-4515-a931-c1c53dd77997" />
 
 <br>
@@ -125,7 +125,7 @@ This highlights the difference between volume-driven vs value-driven products.
 
 The Customer Analytics dashboard focuses on customer purchasing behavior, identifying high-value customers and analyzing order patterns.
 This helps in understanding customer contribution to revenue and engagement levels.
-
+<br>
 <img width="814" height="710" alt="Screenshot 2026-05-03 081537" src="https://github.com/user-attachments/assets/4f5e3a68-a108-4d00-9390-48b8c2d2ca81" />
 
 
@@ -141,9 +141,8 @@ Some customers (like Emma Clark) are frequent buyers
 Others (like Oliver Winston) are high spenders
 
 This shows two important customer types:
-
-High-frequency customers
-High-value customers
+-- High-frequency customers
+-- High-value customers
 
 
 - #### <ins> Key Business Recommendations </ins>
