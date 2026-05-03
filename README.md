@@ -84,6 +84,7 @@ Miami generates the highest revenue (507,200), making it the most valuable marke
 Among product categories, Electronics dominate total sales, highlighting strong demand for tech products.
 In contrast, Books generate the lowest revenue, indicating weaker performance and possible need for promotional strategies.
 
+
 - #### <ins> Key Business Recommendations </ins>
 
   - Focus marketing efforts on high-performing regions like Miami to maximize revenue.
@@ -91,3 +92,32 @@ In contrast, Books generate the lowest revenue, indicating weaker performance an
   - Promote low-performing categories (Books) through discounts or bundling strategies.
   - Encourage adoption of underused payment methods like Debit Cards through offers or cashback incentives.
   - Leverage the popularity of Electronics by expanding product variety and inventory.
+
+---
+### <ins> Page 2 | PRODUCT PERFORMANCE ANALYSIS </ins>
+
+The Product Performance Analysis dashboard evaluates product-level performance by analyzing sales revenue and quantity sold.
+It helps identify top-performing products, underperforming items, and overall product demand trends.
+
+<img width="1293" height="782" alt="Screenshot 2026-05-03 081015" src="https://github.com/user-attachments/assets/12dcad50-7864-4515-a931-c1c53dd77997" />
+
+<br>
+
+
+Smartwatches recorded the highest quantity sold (1680 units), indicating strong customer demand and popularity.
+Washing Machines have the lowest quantity sold (720 units), suggesting lower demand or higher price sensitivity.
+In terms of revenue, Refrigerators generated the highest total sales (1,248,000), making them the most valuable product category.
+Books generated the lowest revenue (16,560), confirming weak performance in both demand and profitability.
+
+
+High quantity does not always mean high revenue.
+For example, Smartwatches sell in large volumes, but Refrigerators generate more revenue due to higher pricing.
+This highlights the difference between volume-driven vs value-driven products.
+
+- #### <ins> Key Business Recommendations </ins>
+ - Focus inventory and marketing on high-demand products like Smartwatches to maintain sales volume.
+ - Prioritize high-revenue products like Refrigerators for profit maximization.
+ - Re-evaluate low-performing products such as Books by introducing promotions or discounts.
+ - Analyze why Washing Machines have low demand (price, competition, or customer preference).
+
+---
